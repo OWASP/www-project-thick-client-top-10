@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Thick Client Top 10 Project
 tags: example-tag
-level: 1
+level: 2
 type: code/tool/documentation or other
 pitch: A very brief, one-line description of your project
 
